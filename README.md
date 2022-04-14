@@ -7,9 +7,4 @@ Coffee ceremony of Ethiopia and Eritrea is a core cultural custom in Ethiopia an
 
 [See my landing page here!](https://aron-helu.github.io/landin-page/
 )
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+Copyright &copy; The Odin Project 2021 by Aaron-A<sup>3</sup>
