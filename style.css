@@ -83,7 +83,7 @@ a {
 }
 
 .text .title {
-    margin:25px 0 20px clamp(0px,var(--c)*-1000,70px);
+    margin:45px 0 30px clamp(0px,var(--c)*-1000,70px);
 }
 
 button {
