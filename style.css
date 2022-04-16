@@ -57,15 +57,15 @@ a {
 }
 
 .text {
-    --w:650px;
+    --w:450px;
     --c:(100vw - var(--w));
 
-    max-width: 900px;
+    max-width: 650px;
     background:#fff;
-    margin:10px auto;
+    margin:5px auto;
     border-radius:10px;
     overflow:hidden;
-    padding:0 20px 0 clamp(20px,var(--c)*1000,180px);
+    padding:0 10px 0 clamp(20px,var(--c)*1000,180px);
     box-sizing:border-box;
     box-shadow:1px 2px 5px #0005;
     position:relative;
@@ -83,7 +83,7 @@ a {
 }
 
 .text .title {
-    margin:20px 0 10px clamp(0px,var(--c)*-1000,70px);
+    margin:10px 0 10px clamp(0px,var(--c)*-1000,70px);
 }
 
 button {
